@@ -12,11 +12,13 @@
   - [Basic Models](#Basic Models)
   - [graph pooling](#graph pooling)
   - [graph transformer](#graph transformer)
-
+  - [graph self-supervised learning](#graph self-supervised learning)
+- [GNN Applications](#GNN Applications)
+  - [Chemical Molecules](#Chemical Molecules)
 # Graph representation Learning
 
 ## Basic Models
-
+- [ICLR 2022] Graph-Less Neural Networks: Teaching Old MLPs New Tricks Via Distillation [[Paper](https://arxiv.org/abs/2110.08727)] [[Code](https://github.com/snap-research/graphless-neural-networks)]
 - [ICLR 2022] LSPE: Graph Neural Networks with Learnable Structural and Positional Representations [[Paper](https://arxiv.org/abs/2110.07875)] [[Code](https://github.com/vijaydwivedi75/gnn-lspe)]
 - [ICLR 2022] TOGL: Topological Graph Neural Networks [[Paper](https://arxiv.org/abs/2102.07835v4)] [[Code](https://github.com/borgwardtlab/togl)]
 - [ICLR 2022] GOAT: Graph Ordering Attention Networks [[Paper](https://arxiv.org/pdf/2204.05351.pdf)] [[Code](https://github.com/MichailChatzianastasis/GOAT)] 
@@ -57,4 +59,13 @@
 - [AAAI 2020 Workshop] graphtransformer: A Generalization of Transformer Networks to Graphs [[Paper](https://arxiv.org/pdf/2012.09699.pdf)] [[Code](https://github.com/graphdeeplearning/graphtransformer)] 
 - [arXiv 2021] GraphiT: Encoding Graph Structure in Transformers [[Paper](https://arxiv.org/abs/2106.05667)] [[Code](https://github.com/inria-thoth/GraphiT)]
 
-:star:<p>The latest GNN research papers are continuously updated. If you have some questions,please email: lizhipengqilu@gmail. Besides, If you like this project, please fork or star</p>
+## graph self-supervised learning
+- [KDD 2022] GraphMAE: Self-Supervised Masked Graph Autoencoders [[Paper](https://arxiv.org/abs/2205.10803)] [[Code](https://github.com/thudm/graphmae)]
+
+
+# GNN Applications
+
+## Chemical Molecules
+- [ICLR 2022] Molecular Contrastive Learning with Chemical Element Knowledge Graph [[Paper](https://arxiv.org/abs/2112.00544)] [[Code](https://github.com/ZJU-Fangyin/KCL)]
+
+- :star:<p>The latest GNN research papers are continuously updated. If you have some questions,please email: lizhipengqilu@gmail. Besides, If you like this project, please fork or star</p>
