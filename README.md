@@ -1,5 +1,5 @@
 <p align="center">
- <img width="200px" src="" align="center" alt="GNN latest papers" />
+ <img width="200px" src="https://github.com/Frank-qlu/GNN_latest_papers/blob/main/imgs/title.png" align="center" alt="GNN latest papers" />
  <h2 align="center">GNN latest papers</h2>
 <p align="center" >**The latest research papers on graph representation learning**</p>
 </p>
