@@ -57,4 +57,4 @@
 - [AAAI 2020 Workshop] graphtransformer: A Generalization of Transformer Networks to Graphs [[Paper](https://arxiv.org/pdf/2012.09699.pdf)] [[Code](https://github.com/graphdeeplearning/graphtransformer)] 
 - [arXiv 2021] GraphiT: Encoding Graph Structure in Transformers [[Paper](https://arxiv.org/abs/2106.05667)] [[Code](https://github.com/inria-thoth/GraphiT)]
 
-:star<p>The latest GNN research papers are continuously updated. If you have some questions,please email lizhipengqilu@gmail. Besides, If you like this project, please fork or star</p>
+:star:<p>The latest GNN research papers are continuously updated. If you have some questions,please email: lizhipengqilu@gmail. Besides, If you like this project, please fork or star</p>
