@@ -68,4 +68,4 @@
 ## Chemical Molecules
 - [ICLR 2022] Molecular Contrastive Learning with Chemical Element Knowledge Graph [[Paper](https://arxiv.org/abs/2112.00544)] [[Code](https://github.com/ZJU-Fangyin/KCL)]
 
-- :star:<p>The latest GNN research papers are continuously updated. If you have some questions,please email: lizhipengqilu@gmail. Besides, If you like this project, please fork or star</p>
+:star:<p>The latest GNN research papers are continuously updated. If you have some questions,please email: lizhipengqilu@gmail. Besides, If you like this project, please fork or star</p>
