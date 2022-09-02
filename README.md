@@ -47,7 +47,7 @@
 - [NIPS 2016] DCNN: Diffusion-Convolutional Neural Networks [[Paper](https://proceedings.neurips.cc/paper/2016/file/390e982518a50e280d8e2b535462ec1f-Paper.pdf)] [[Code](https://paperswithcode.com/paper/diffusion-convolutional-neural-networks)] 
 
 ## graph transformer
-
+- [arXiv 2022] Pure Transformers are Powerful Graph Learners [[Paper](https://arxiv.org/pdf/2207.02505.pdf)] [[Code](https://github.com/jw9730/tokengt)]
 - [NIPS 2021] GraphGPS: Recipe for a General, Powerful, Scalable Graph Transformer [[Paper](https://arxiv.org/pdf/2205.12454.pdf)] [[Code](https://github.com/rampasek/GraphGPS)]
 - [ICML 2022] SAT: Structure-Aware Transformer for Graph Representation Learning [[Paper](https://arxiv.org/abs/2202.03036)] [[Code](https://github.com/borgwardtlab/sat)] 
 - [NIPS 2021] Graphormer: Do Transformers Really Perform Bad for Graph Representation？ [[Paper](https://arxiv.org/abs/2106.05234)] [[Code](https://github.com/Microsoft/Graphormer)] 
@@ -58,7 +58,6 @@
 - [NIPS 2020] GROVER: Self-Supervised Graph Transformer on Large-Scale Molecular Data [[Paper](https://proceedings.neurips.cc/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf)] [[Code](https://github.com/tencent-ailab/grover)]
 - [AAAI 2020 Workshop] graphtransformer: A Generalization of Transformer Networks to Graphs [[Paper](https://arxiv.org/pdf/2012.09699.pdf)] [[Code](https://github.com/graphdeeplearning/graphtransformer)] 
 - [arXiv 2021] GraphiT: Encoding Graph Structure in Transformers [[Paper](https://arxiv.org/abs/2106.05667)] [[Code](https://github.com/inria-thoth/GraphiT)]
-
 ## graph self-supervised learning
 - [KDD 2022] GraphMAE: Self-Supervised Masked Graph Autoencoders [[Paper](https://arxiv.org/abs/2205.10803)] [[Code](https://github.com/thudm/graphmae)]
 
