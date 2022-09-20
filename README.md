@@ -25,6 +25,7 @@
 
 ## graph pooling
 
+- [CIKM 2021] Pooling Architecture Search for Graph Classification [[Paper](https://arxiv.org/abs/2108.10587)] [[Code](https://github.com/AutoML-Research/PAS)] 
 - [ICLR 2021] GMTPool: Accurate Learning of Graph Representations with Graph Multiset Pooling [[Paper](https://openreview.net/pdf?id=JHcqXGaqiGn)] [[Code](https://github.com/JinheonBaek/GMT)] 
 - [NIPS 2021] GraphTrans: Representing Long-Range Context for Graph Neural Networks with Global Attention [[Paper](https://proceedings.neurips.cc/paper/2021/file/6e67691b60ed3e4a55935261314dd534-Paper.pdf)] [[Code](https://github.com/ucbrise/graphtrans)] 
 - [TKDE 2021] MVPool [[Paper](https://ieeexplore.ieee.org/abstract/document/9460814)] [[Code](https://github.com/cszhangzhen/MVPool)] 
