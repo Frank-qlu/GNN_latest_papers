@@ -61,6 +61,7 @@
 - [arXiv 2021] GraphiT: Encoding Graph Structure in Transformers [[Paper](https://arxiv.org/abs/2106.05667)] [[Code](https://github.com/inria-thoth/GraphiT)]
 ## graph self-supervised learning
 - [KDD 2022] GraphMAE: Self-Supervised Masked Graph Autoencoders [[Paper](https://arxiv.org/abs/2205.10803)] [[Code](https://github.com/thudm/graphmae)]
+- [NIPS 2022] NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification[[Paper](https://openreview.net/pdf?id=sMezXGG5Soopenreview.net/pdf?id=sMezXGG5So)] [[Code](https://github.com/qitianwu/NodeFormergithub.com/qitianwu/NodeFormer)]
 
 
 # GNN Applications
