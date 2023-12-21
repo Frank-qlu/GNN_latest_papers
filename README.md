@@ -48,6 +48,8 @@
 - [NIPS 2016] DCNN: Diffusion-Convolutional Neural Networks [[Paper](https://proceedings.neurips.cc/paper/2016/file/390e982518a50e280d8e2b535462ec1f-Paper.pdf)] [[Code](https://paperswithcode.com/paper/diffusion-convolutional-neural-networks)] 
 
 ## graph transformer
+- [ICML 2023] NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs [[Paper](https://openreview.net/pdf?id=8KYeilT3Ow)] [[Code](https://github.com/JHL-HUST/NAGphormer)]
+- [ICML 2023] EXPHORMER: Sparse Transformers for Graphs [[Paper](https://arxiv.org/pdf/2303.06147.pdf)] [[Code](https://github.com/hamed1375/Exphormer)]
 - [arXiv 2022] Pure Transformers are Powerful Graph Learners [[Paper](https://arxiv.org/pdf/2207.02505.pdf)] [[Code](https://github.com/jw9730/tokengt)]
 - [NIPS 2021] GraphGPS: Recipe for a General, Powerful, Scalable Graph Transformer [[Paper](https://arxiv.org/pdf/2205.12454.pdf)] [[Code](https://github.com/rampasek/GraphGPS)]
 - [ICML 2022] SAT: Structure-Aware Transformer for Graph Representation Learning [[Paper](https://arxiv.org/abs/2202.03036)] [[Code](https://github.com/borgwardtlab/sat)] 
