@@ -62,6 +62,10 @@
 - [AAAI 2020 Workshop] graphtransformer: A Generalization of Transformer Networks to Graphs [[Paper](https://arxiv.org/pdf/2012.09699.pdf)] [[Code](https://github.com/graphdeeplearning/graphtransformer)] 
 - [arXiv 2021] GraphiT: Encoding Graph Structure in Transformers [[Paper](https://arxiv.org/abs/2106.05667)] [[Code](https://github.com/inria-thoth/GraphiT)]
 - [NIPS 2022] NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification[[Paper](https://openreview.net/pdf?id=sMezXGG5Soopenreview.net/pdf?id=sMezXGG5So)] [[Code](https://github.com/qitianwu/NodeFormergithub.com/qitianwu/NodeFormer)]
+- [ICML 2023] EXPHORMER: Sparse Transformers for Graphs[[Paper](https://proceedings.mlr.press/v202/shirzad23a/shirzad23a.pdf)] [[Code](https://github.com/hamed1375/Exphormer)]
+- [IJCAI 2023] Gapformer: Graph Transformer with Graph Pooling for Node Classifcation[[Paper](https://www.ijcai.org/proceedings/2023/0244.pdf)]
+- [ICML 2023] EXPHORMER: Sparse Transformers for Graphs[[Paper](https://proceedings.mlr.press/v202/shirzad23a/shirzad23a.pdf)] [[Code](https://github.com/hamed1375/Exphormer)]
+- [ICLR 2024] Polynormer: Polynomial-Expressive Graph Transformer in Linear Time[[Paper](https://arxiv.org/pdf/2403.01232)]
 ## graph self-supervised learning
 - [KDD 2022] GraphMAE: Self-Supervised Masked Graph Autoencoders [[Paper](https://arxiv.org/abs/2205.10803)] [[Code](https://github.com/thudm/graphmae)]
 
