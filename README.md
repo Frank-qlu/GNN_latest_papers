@@ -23,6 +23,9 @@
 - [ICLR 2022] TOGL: Topological Graph Neural Networks [[Paper](https://arxiv.org/abs/2102.07835v4)] [[Code](https://github.com/borgwardtlab/togl)]
 - [ICLR 2022] GOAT: Graph Ordering Attention Networks [[Paper](https://arxiv.org/pdf/2204.05351.pdf)] [[Code](https://github.com/MichailChatzianastasis/GOAT)] 
 
+## Graph Large Language Models (LLMs)
+- [SIGIR 2024] GraphGPT: Graph Instruction Tuning for Large Language Models [[Paper](https://arxiv.org/pdf/2310.13023v2)] [[Code](https://github.com/HKUDS/GraphGPT)]
+
 ## graph pooling
 
 - [CIKM 2021] Pooling Architecture Search for Graph Classification [[Paper](https://arxiv.org/abs/2108.10587)] [[Code](https://github.com/AutoML-Research/PAS)] 
