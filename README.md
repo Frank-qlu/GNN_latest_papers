@@ -70,7 +70,7 @@
 - [ICLR 2024] Polynormer: Polynomial-Expressive Graph Transformer in Linear Time[[Paper](https://arxiv.org/pdf/2403.01232)]
 ## graph self-supervised learning
 - [KDD 2022] GraphMAE: Self-Supervised Masked Graph Autoencoders [[Paper](https://arxiv.org/abs/2205.10803)] [[Code](https://github.com/thudm/graphmae)]
-- [KDD 2022] Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning [[Paper](https://arxiv.org/abs/2409.17386)] [[Code](https://github.com/zxlearningdeep/InfoMGF)]
+- [NeurIPS 2024] Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning [[Paper](https://arxiv.org/abs/2409.17386)] [[Code](https://github.com/zxlearningdeep/InfoMGF)]
 
 
 # GNN Applications
