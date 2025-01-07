@@ -8,13 +8,13 @@
 
 # Contents
 
-- [Graph representation Learning](## Graph representation Learning)
-  - [Basic Models](## Basic Models)
-  - [graph pooling](#graph pooling)
-  - [graph transformer](#graph transformer)
-  - [graph self-supervised learning](#graph self-supervised learning)
-- [GNN Applications](#GNN Applications)
-  - [Chemical Molecules](#Chemical Molecules)
+- [Graph representation Learning](#graph-representation-learning)
+  - [Basic Models](#basic-models)
+  - [graph pooling](#graph-pooling)
+  - [graph transformer](#graph-transformer)
+  - [graph self-supervised learning](#graph-self-supervised-learning)
+- [GNN Applications](#GNN-Applications)
+  - [Chemical Molecules](#Chemical-Molecules)
 # Graph representation Learning
 
 ## Basic Models
