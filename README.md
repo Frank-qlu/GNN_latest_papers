@@ -9,8 +9,8 @@
 # Contents
 
 - [Graph representation Learning](#graph-representation-learning)
-  - [Graph Large Language Models](#graph-large-language-models-llms)
   - [Basic Models](#basic-models)
+  - [Graph Large Language Models](#graph-large-language-models-llms)
   - [graph pooling](#graph-pooling)
   - [graph transformer](#graph-transformer)
   - [graph self-supervised learning](#graph-self-supervised-learning)
