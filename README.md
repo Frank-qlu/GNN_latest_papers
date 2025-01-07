@@ -27,7 +27,6 @@
 - [SIGIR 2024] GraphGPT: Graph Instruction Tuning for Large Language Models [[Paper](https://arxiv.org/pdf/2310.13023v2)] [[Code](https://github.com/HKUDS/GraphGPT)]
 
 ## graph pooling
-
 - [CIKM 2021] Pooling Architecture Search for Graph Classification [[Paper](https://arxiv.org/abs/2108.10587)] [[Code](https://github.com/AutoML-Research/PAS)] 
 - [ICLR 2021] GMTPool: Accurate Learning of Graph Representations with Graph Multiset Pooling [[Paper](https://openreview.net/pdf?id=JHcqXGaqiGn)] [[Code](https://github.com/JinheonBaek/GMT)] 
 - [NIPS 2021] GraphTrans: Representing Long-Range Context for Graph Neural Networks with Global Attention [[Paper](https://proceedings.neurips.cc/paper/2021/file/6e67691b60ed3e4a55935261314dd534-Paper.pdf)] [[Code](https://github.com/ucbrise/graphtrans)] 
@@ -71,6 +70,7 @@
 - [ICLR 2024] Polynormer: Polynomial-Expressive Graph Transformer in Linear Time[[Paper](https://arxiv.org/pdf/2403.01232)]
 ## graph self-supervised learning
 - [KDD 2022] GraphMAE: Self-Supervised Masked Graph Autoencoders [[Paper](https://arxiv.org/abs/2205.10803)] [[Code](https://github.com/thudm/graphmae)]
+- [KDD 2022] Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning [[Paper](https://arxiv.org/abs/2409.17386)] [[Code](https://github.com/zxlearningdeep/InfoMGF)]
 
 
 # GNN Applications
