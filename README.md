@@ -8,8 +8,8 @@
 
 # Contents
 
-- [Graph representation Learning](#Graph representation Learning)
-  - [Basic Models](#Basic Models)
+- [Graph representation Learning](## Graph representation Learning)
+  - [Basic Models](## Basic Models)
   - [graph pooling](#graph pooling)
   - [graph transformer](#graph transformer)
   - [graph self-supervised learning](#graph self-supervised learning)
